@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Spidyu/spidy-userbot-/spidy-userbot-",
+  "repository": "https://github.com/Spidyu/spidy-userbot-",
   "telegram": "https://t.me/Spidyuserbott",
   "success_url": "https://t.me/Spidyproject",
   "stack": "container",
@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @IDnyaKosong di telegram",
+      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @Spidyuserbott di telegram",
       "required": true
     },
     "HEROKU_APP_NAME": {
