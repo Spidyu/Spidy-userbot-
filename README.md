@@ -7,10 +7,6 @@
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor"/>
     </p>
 
-p align="center">
-    <a heref="https://github.com/Spidyu/spidy-userbot-/tree/spidy-userbot-
-
-
 <p align="center">
   <img src="https://telegra.ph/file/6dcaf46b5fa52d007d1e1.jpg">
 </p>
