@@ -709,7 +709,7 @@ with bot:
                         0,
                         "image/jpeg",
                         []),
-                    text="**Kyy-Userbot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **ᴏᴡɴᴇʀ ʀᴇᴘᴏ :** [Kyy-Ex](https://t.me/IDnyaKosong)\n✣ **sᴜᴘᴘᴏʀᴛ :** @NastySupportt\n✣ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [Kyy-Userbot](https://github.com/muhammadrizky16/Kyy-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**spidy-userbot-**\n➖➖➖➖➖➖➖➖➖➖\n✣ **ᴏᴡɴᴇʀ ʀᴇᴘᴏ :** [▣ Sᴘɪᴅʏ](https://t.me/Spidyuserbott)\n✣ **sᴜᴘᴘᴏʀᴛ :** @Spidysupport\n✣ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [spidy-userbot-](https://github.com/Spidyu/spidy-userbot-)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url(
